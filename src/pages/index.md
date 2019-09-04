@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Mite menee?
-image: /img/chemex.jpg
-heading: Great coffee with a conscience
+title: Finnish aerial high performance photography
+image: /img/20190728_142641.jpg
+heading: Finnforestry Consulting Ltd
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
